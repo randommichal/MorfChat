@@ -2716,6 +2716,10 @@ Source: Conversation with Bing, 5/20/2023
 Conversation 5
 ===
 
+
+## Convert a schema description into an UML diagram (StartUML format)
+
+
 >I want to create a schema for a car leasing portfolio management system with following functionalities:
 >-keep record of customers
 >-each customer can have multiple leasing contracts
@@ -2790,7 +2794,6 @@ Conversation 5
 >
 >Can you generate UML diagram for that schema?
 
-## Convert a schema description into an UML diagram (StartUML format)
 
 Sure, I can generate a UML diagram for that schema. Here is the code block for the diagram:
 
